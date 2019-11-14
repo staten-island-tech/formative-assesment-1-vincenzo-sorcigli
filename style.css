@@ -4,12 +4,12 @@ h1{
 body{
     background-image: linear-gradient(
         to right bottom,
-        rgba(255, 255, 255, 0.9),
+        rgba(255, 0, 255, 0.9),
         rgba(0,0,0,0.9)
     ), 
     url(media/kid.jpg);
     background-size: cover;
 }
 img{
-    
+    filter: invert(1);
 }
