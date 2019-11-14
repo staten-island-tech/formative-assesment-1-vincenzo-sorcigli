@@ -10,6 +10,7 @@ body{
     url(media/kid.jpg);
     background-size: cover;
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
 }
 img{
     filter: invert(1);
